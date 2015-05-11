@@ -1,0 +1,9 @@
+D:\Projects\Git\wasawaz\FizzBuzz\FizzBuzzTest\bin\Debug\FizzBuzzTest.dll
+D:\Projects\Git\wasawaz\FizzBuzz\FizzBuzzTest\bin\Debug\FizzBuzzTest.pdb
+D:\Projects\Git\wasawaz\FizzBuzz\FizzBuzzTest\bin\Debug\FizzBuzz.dll
+D:\Projects\Git\wasawaz\FizzBuzz\FizzBuzzTest\bin\Debug\nunit.framework.dll
+D:\Projects\Git\wasawaz\FizzBuzz\FizzBuzzTest\bin\Debug\FizzBuzz.pdb
+D:\Projects\Git\wasawaz\FizzBuzz\FizzBuzzTest\bin\Debug\nunit.framework.xml
+D:\Projects\Git\wasawaz\FizzBuzz\FizzBuzzTest\obj\Debug\FizzBuzzTest.csprojResolveAssemblyReference.cache
+D:\Projects\Git\wasawaz\FizzBuzz\FizzBuzzTest\obj\Debug\FizzBuzzTest.dll
+D:\Projects\Git\wasawaz\FizzBuzz\FizzBuzzTest\obj\Debug\FizzBuzzTest.pdb
